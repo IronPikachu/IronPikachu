@@ -12,13 +12,19 @@
 <br/>
 
 ### Languages and tools
-[<img align="left" alt="Visual Studio" width="22px" src="/icons/vs.svg" />][Visual Studio]
-[<img align="left" alt="Visual Studio Code" width="22px" src="/icons/vsc.svg" />][Visual Studio Code]
-[<img align="left" alt="C++" width="22px" src="/icons/cpp.svg" />][C++]
-[<img align="left" alt="C#" width="22px" src="/icons/cs.svg" />][C#]
+[<img align="left" alt="Visual Studio" width="22px" src="/icons/vs.svg" />][VisualStudio]
+[<img align="left" alt="Visual Studio Code" width="22px" src="/icons/vsc.svg" />][VisualStudioCode]
+[<img align="left" alt="C++" width="22px" src="/icons/cpp.svg" />][Cpp]
+[<img align="left" alt="C#" width="22px" src="/icons/cs.svg" />][Cs]
 
 <br/>
 <br/>
 
+[IronPikachu]: IronPikachu
+[Fearum]: Fearum
 [Website]: iron.sitedelta.com
 [LinkedIn]: https://www.linkedin.com/in/simonsamzelius/
+[VisualStudio]: https://visualstudio.microsoft.com/
+[VisualStudioCode]: https://code.visualstudio.com/
+[Cpp]: https://en.cppreference.com/w/
+[Cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
