@@ -20,6 +20,10 @@
 <br/>
 <br/>
 
+---
+
+<img align="left" alt="IronPikachus Github stats" src="https://github-readme-stats.vercel.app/api?username=IronPikachu&show_icons=true&hide_border=true&count_private=true?theme=synthwave">
+
 [IronPikachu]: IronPikachu
 [Fearum]: Fearum
 [Website]: iron.sitedelta.com
