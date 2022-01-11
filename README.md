@@ -5,12 +5,6 @@
 - 💯 Currently learning the .NET stack
 - 🎵 I like to play instruments
 
-<style>
-    img {
-        border: 1px solid white;
-    }
-</style>
-
 ### My online stuff:
 [<img align="left" alt="" width="22px" src="/icons/comingsoon.svg" />][Website]
 [<img align="left" alt="" width="22px" src="/icons/linkedin.svg" />][LinkedIn]
@@ -25,7 +19,7 @@
 <br/>
 <br/>
 
-[<img align="left" alt="C++" width="22px" src="/icons/cpp.svg" />][Cpp]
+[<img align="left" alt="C++" width="22px" src="/icons/cpp.svg" style="border:1px solid white"/>][Cpp]
 [<img align="left" alt="C#" width="22px" src="/icons/cs.svg" />][Cs]
 [<img align="left" alt="Python" width="22px" src="/icons/python.svg" />][Python]
 [<img align="left" alt="HTML" width="22px" src="/icons/html.svg" />][Html]
