@@ -15,6 +15,9 @@
 ### Languages and tools
 [<img align="left" alt="Visual Studio" width="22px" src="/icons/vs.svg" />][VisualStudio]
 [<img align="left" alt="Visual Studio Code" width="22px" src="/icons/vsc.svg" />][VisualStudioCode]
+
+<br/>
+
 [<img align="left" alt="C++" width="22px" src="/icons/cpp.svg" />][Cpp]
 [<img align="left" alt="C#" width="22px" src="/icons/cs.svg" />][Cs]
 [<img align="left" alt="Python" width="22px" src="/icons/python.svg" />][Python]
