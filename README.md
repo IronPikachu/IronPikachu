@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-[<img align="left" alt="C++" width="22px" src="/icons/cpp.svg" style="border:1px solid white"/>][Cpp]
+[<img align="left" alt="C++" width="22px" src="/icons/cpp.svg"/>][Cpp]
 [<img align="left" alt="C#" width="22px" src="/icons/cs.svg" />][Cs]
 [<img align="left" alt="Python" width="22px" src="/icons/python.svg" />][Python]
 [<img align="left" alt="HTML" width="22px" src="/icons/html.svg" />][Html]
