@@ -6,7 +6,7 @@
 - 🎵 I like to play instruments
 
 ### My online stuff:
-[<img align="left" alt="" width="22px" src="" />][Website]
+[<img align="left" alt="" width="22px" src="/icons/comingsoon.svg" />][Website]
 [<img align="left" alt="" width="22px" src="/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="" width="22px" src="/icons/twitter.svg" />][Twitter]
 
